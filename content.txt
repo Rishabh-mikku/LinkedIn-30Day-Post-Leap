@@ -1,0 +1,13 @@
+Hello LinkedIn Fam! Today we are going to deep dive in the topic 1. Types of data structures
+
+
+📊 Understanding different types of data structures is crucial for efficient data management and manipulation. Here are some common types of data structures that you should know: 
+
+🔹 Arrays: A collection of elements stored in a contiguous memory location. 
+🔹 Linked Lists: A linear data structure where each element is connected to the next one through pointers. 
+🔹 Stacks: A data structure that follows the Last In First Out (LIFO) principle. 
+🔹 Queues: A data structure that follows the First In First Out (FIFO) principle. 
+🔹 Trees: A hierarchical data structure with a root node and child nodes. 
+🔹 Graphs: A non-linear data structure with nodes connected through edges. 
+
+📚 Each data structure has its own advantages and use cases, so make sure to choose the right one for your project. #DataStructures #TechTalk #DataManagement
